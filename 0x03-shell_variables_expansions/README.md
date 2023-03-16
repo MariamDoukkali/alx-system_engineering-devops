@@ -1,2 +1,1 @@
-#!/bin/bash
-echo '0x03-shell variables expansions'
+Create a script that creates an alias.
